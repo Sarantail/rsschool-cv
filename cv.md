@@ -1,4 +1,4 @@
-![Photo](./pictures/cv.png)
+![Photo](/assets/pic/photo.jpg)
 # Kolesnichenko Anna
 ## Contacts
 
@@ -15,9 +15,12 @@ So I decided to choose a direction related to code visualization.
 
 ## Skills
 
-* HTML
-* JavaScript
-* Git
+* HTML5
+* CSS3
+* JavaScript Basics
+* VS Code
+* Git, GitHub
+* Adobe Photoshop
 
 ## Code example
 
@@ -26,10 +29,6 @@ function multiply(a, b){
 return a * b
 }
 ```
-## Experience
-
-CV. Markdown & Git
-
 ## Education
 
 **University:** The Russian Presidential Academy of National Economy and Public Administration (RANEPA)
