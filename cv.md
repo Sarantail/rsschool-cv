@@ -34,6 +34,10 @@ CV. Markdown & Git
 
 **University:** The Russian Presidential Academy of National Economy and Public Administration (RANEPA)
 
+## Courses
+
+RS Schools «JavaScript/Front-end. Stage 0»
+
 ## Languages:
 
 1. Russian - Native
